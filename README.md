@@ -1,1 +1,2 @@
 # Weather-App
+This application is a service that allows the Yahoo Weather RSS feed to be added to a website or client application.With this API one can code customize responses to queries for their client applications or their websites and add weather RSS feed functionality to their applications or websites. When it comes to the SMS application, this is a software written in Java that can be used to send SMS messages.An intermediate SMS Gateway is made use and the endpoint is the mobile user.
